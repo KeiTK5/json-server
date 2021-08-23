@@ -72,7 +72,8 @@
             "time": "120 minutes",
             "price": "89.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "supernatural"
+            "type": "supernatural",
+            "view": 68
         },
         {
             "id": 6,
@@ -86,7 +87,8 @@
             "time": "120 minutes",
             "price": "79.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "supernatural"
+            "type": "supernatural",
+            "view": 69
         },
         {
             "id": 7,
@@ -100,7 +102,8 @@
             "time": "120 minutes",
             "price": "69.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "life"
+            "type": "life",
+            "view": 70
         },
         {
             "id": 8,
@@ -114,7 +117,8 @@
             "time": "120 minutes",
             "price": "69.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "adventure"
+            "type": "adventure",
+            "view": 71
         },
         {
             "id": 9,
@@ -128,7 +132,8 @@
             "time": "120 minutes",
             "price": "89.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "school"
+            "type": "school",
+            "view": 72
         },
         {
             "id": 10,
@@ -142,7 +147,8 @@
             "time": "120 minutes",
             "price": "99.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "fiction"
+            "type": "fiction",
+            "view": 73
         },
         {
             "id": 11,
@@ -171,7 +177,8 @@
             "time": "120 minutes",
             "price": "89.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "supernatural"
+            "type": "supernatural",
+            "view": 75
         },
         {
             "id": 13,
@@ -185,7 +192,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "supernatural"
+            "type": "supernatural",
+            "view": 76
         },
         {
             "id": 14,
@@ -199,7 +207,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "action"
+            "type": "action",
+            "view": 77
         },
         {
             "id": 15,
@@ -213,7 +222,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "action"
+            "type": "action",
+            "view": 78
         },
         {
             "id": 16,
@@ -227,7 +237,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "action"
+            "type": "action",
+            "view": 79
         },
         {
             "id": 17,
@@ -241,7 +252,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "action"
+            "type": "action",
+            "view": 80
         },
         {
             "id": 18,
@@ -255,7 +267,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "action"
+            "type": "action",
+            "view": 81
         },
         {
             "id": 19,
@@ -269,7 +282,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "action"
+            "type": "action",
+            "view": 82
         },
         {
             "id": 20,
@@ -283,7 +297,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "action"
+            "type": "action",
+            "view": 83
         },
         {
             "id": 21,
@@ -297,7 +312,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "action"
+            "type": "action",
+            "view": 84
         },
         {
             "id": 22,
@@ -311,7 +327,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "fiction"
+            "type": "fiction",
+            "view": 85
         },
         {
             "id": 23,
@@ -325,7 +342,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "fiction"
+            "type": "fiction",
+            "view": 86
         },
         {
             "id": 24,
@@ -339,7 +357,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "fiction"
+            "type": "fiction",
+            "view": 87
         },
         {
             "id": 25,
@@ -353,7 +372,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "fiction"
+            "type": "fiction",
+            "view": 88
         },
         {
             "id": 26,
@@ -367,7 +387,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "fiction"
+            "type": "fiction",
+            "view": 89
         },
         {
             "id": 27,
@@ -381,7 +402,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "fiction"
+            "type": "fiction",
+            "view": 90
         },
         {
             "id": 28,
@@ -395,7 +417,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "fiction"
+            "type": "fiction",
+            "view": 91
         },
         {
             "id": 29,
@@ -439,7 +462,7 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "romance", 
+            "type": "romance",
             "view": 92
         },
         {
@@ -454,7 +477,7 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "horror", 
+            "type": "horror",
             "view": 93
         },
         {
@@ -469,7 +492,7 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "horror", 
+            "type": "horror",
             "view": 94
         },
         {
@@ -484,7 +507,7 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "horror", 
+            "type": "horror",
             "view": 95
         },
         {
@@ -499,7 +522,7 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "horror", 
+            "type": "horror",
             "view": 96
         },
         {
@@ -514,7 +537,7 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "school", 
+            "type": "school",
             "view": 97
         },
         {
@@ -529,7 +552,7 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "school", 
+            "type": "school",
             "view": 98
         },
         {
@@ -544,7 +567,7 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "school", 
+            "type": "school",
             "view": 99
         },
         {
@@ -559,7 +582,7 @@
             "premiere": "19/9/2020",
             "time": "120 minutes",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "action", 
+            "type": "action",
             "view": 100
         },
         {
@@ -574,7 +597,8 @@
             "time": "120 minutes",
             "price": "89.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "action"
+            "type": "action",
+            "view": 101
         },
         {
             "id": 100,
