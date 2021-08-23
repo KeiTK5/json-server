@@ -439,7 +439,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "romance"
+            "type": "romance", 
+            "view": 92
         },
         {
             "id": 32,
@@ -453,7 +454,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "horror"
+            "type": "horror", 
+            "view": 93
         },
         {
             "id": 33,
@@ -467,7 +469,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "horror"
+            "type": "horror", 
+            "view": 94
         },
         {
             "id": 34,
@@ -481,7 +484,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "horror"
+            "type": "horror", 
+            "view": 95
         },
         {
             "id": 35,
@@ -495,7 +499,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "horror"
+            "type": "horror", 
+            "view": 96
         },
         {
             "id": 36,
@@ -509,7 +514,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "school"
+            "type": "school", 
+            "view": 97
         },
         {
             "id": 37,
@@ -523,7 +529,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "school"
+            "type": "school", 
+            "view": 98
         },
         {
             "id": 38,
@@ -537,7 +544,8 @@
             "time": "120 minutes",
             "price": "87.000",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "school"
+            "type": "school", 
+            "view": 99
         },
         {
             "id": 39,
@@ -551,7 +559,8 @@
             "premiere": "19/9/2020",
             "time": "120 minutes",
             "language": "Tiếng Nhật - Phụ đề Tiếng Việt",
-            "type": "action"
+            "type": "action", 
+            "view": 100
         },
         {
             "id": 602,
