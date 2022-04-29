@@ -1361,5 +1361,11 @@
     ],
     "comment": [],
     "cart": [],
-    "order": []
+    "order": [],
+    "artist": [
+        {
+            "id": 1,
+            "image": "/image/karina.jpg"
+        }
+    ]
 }
